@@ -1,6 +1,6 @@
 <Solution>
+  <Project Path="Day01\Day01.fsproj" />
+  <Project Path="Day02\Day02.fsproj" />
+  <Project Path="Day03\Day03.csproj" />
   <Project Path="Day04/Day04.csproj" />
-  <Project Path="Day1/Day1.fsproj" />
-  <Project Path="Day2/Day2.fsproj" />
-  <Project Path="Day3/Day3.csproj" />
 </Solution>
